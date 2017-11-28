@@ -5,4 +5,4 @@
 
 package me.zhanghai.android.materialprogressbar;
 
-interface MaterialProgressDrawable {}
+public interface MaterialProgressDrawable {}
