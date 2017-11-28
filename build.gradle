@@ -13,8 +13,6 @@ buildscript {
 }
 
 allprojects {
-    version = VERSION_NAME
-    group = GROUP
     repositories {
         jcenter()
         // Replace this with `google()` when upgraded to Android Gradle Plugin 3.0+ and Gradle 4.0+.
