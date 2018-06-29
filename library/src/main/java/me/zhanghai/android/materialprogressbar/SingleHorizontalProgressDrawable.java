@@ -16,9 +16,9 @@ class SingleHorizontalProgressDrawable extends BaseSingleHorizontalProgressDrawa
     /**
      * Value from {@link Drawable#getLevel()}
      */
-    static final int LEVEL_MAX = 10000;
+    private static final int LEVEL_MAX = 10000;
 
-    boolean mShowBackground;
+    private boolean mShowBackground;
 
     SingleHorizontalProgressDrawable(Context context) {
         super(context);
